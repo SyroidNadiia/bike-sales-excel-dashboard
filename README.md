@@ -25,9 +25,7 @@ bike-sales-dashboard/
 │── Bike_Sales_Dashboard.xlsx  # Main Excel dashboard file
 │── README.md                  # Project description
 │── dashboard_screenshot.png    # Screenshot of the final dashboard
-│── data/                       # (Optional) Raw dataset folder
-│── docs/                       # (Optional) Additional documentation
-```
+
 
 ---
 
